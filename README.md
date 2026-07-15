@@ -31,35 +31,61 @@
 
 ## 🛠️ STACK TECNOLÓGICO
 
-#### **Tecnologías y Desarrollo**
+#### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
 </p>
 
-* **Metodologías:** Desarrollo Ágil (Scrum, Kanban, XP), Cascada (Tradicional), Git.
-* **Habilidades clave:** Análisis de Software, Comunicación Efectiva, Trabajo en Equipo.
+#### **Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+#### **Base de Datos**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### **DevOps y Herramientas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
 
 ## 💼 EXPERIENCIA LABORAL
 
 * **ALCALDÍA DE MARIÑO (NUEVA ESPARTA)** | Desarrollador Full Stack / Ingeniería de Sistemas | Enero 2026 – Presente
 * **EMBARCACIÓN ISIDORO** | Desarrollador Full Stack Remoto | Enero 2026 – Abril 2026
+* **FISIOVITAL MARGARITA** | Desarrollador Full Stack Remoto | Mayo 2026 – Julio 2026
 * **GS TECHNOLOGY, C.A.** | Soporte Técnico | Mayo 2025 – Julio 2025
 
 ## 🏗️ PROYECTOS DESTACADOS
 
-* **Autogobierno (Gestión Comunitaria):** Plataforma para administración de ayudas y servicios públicos con flujos de trabajo dinámicos y seguimiento de recursos por departamento.
-* **Sistema de Planificación Estratégica:** Arquitectura de seguimiento de metas con visualización de datos mediante Diagramas de Gantt y métricas de cumplimiento gerencial.
-* **Reporte de Incidencias y Auditoría:** Gestión centralizada con geolocalización avanzada, carga multimedia y trazabilidad estricta mediante logs de auditoría y control RBAC.
-* **Gestión de Ingresos y Egresos (Isidoro):** Ecosistema digital para el control total de embarcaciones, eliminando procesos manuales mediante flujos automatizados y seguridad blindada.
+**Stack usado en todos los proyectos:** Laravel, React, TypeScript, Tailwind CSS, PostgreSQL.
+
+* **Autogobierno (Gestión Comunitaria)** – Plataforma para administración de ayudas a todas las localidades.
+  - Desarrollé íntegramente la plataforma web con Laravel y React, implementando flujos de trabajo dinámicos para agilizar la respuesta y el seguimiento de solicitudes.
+  - Apliqué auditorías de rendimiento y optimización de consultas, garantizando tiempos de carga óptimos incluso con alto volumen de datos.
+  - Estructuré y gestioné los datos recolectados, manteniendo la integridad de la información para facilitar análisis gerenciales posteriores.
+  - Implementé control de acceso basado en roles (RBAC) para asegurar la privacidad de los datos según el perfil del usuario.
+
+* **Instituto IAMENE** – Gestión de expedientes para niños, niñas y adolescentes en Nueva Esparta.
+  - Construí el sistema completo de gestión documental con Laravel y React, digitalizando expedientes y eliminando procesos manuales.
+  - Implementé control de acceso basado en roles (RBAC) para asegurar la privacidad de datos sensibles según el perfil del usuario.
+  - Diseñé una interfaz intuitiva con Tailwind CSS, facilitando la adopción por parte del personal administrativo.
+  - Optimicé consultas a la base de datos PostgreSQL para manejar grandes volúmenes de expedientes sin pérdida de rendimiento.
+
+* **FisioVital Margarita** – Gestión de citas médicas, expedientes, inventario y control total de la clínica de fisioterapia.
+  - Desarrollé el ecosistema digital integral de la clínica, centralizando citas, historias clínicas e inventario en un solo sistema.
+  - Implementé recordatorios automatizados y reportes de productividad, optimizando la gestión del personal médico.
+  - Apliqué principios UX/UI para garantizar una navegación fluida tanto para administrativos como para pacientes.
+  - Implementé control de acceso basado en roles (RBAC) para segmentar permisos entre administradores, médicos y recepcionistas.
