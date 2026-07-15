@@ -12,19 +12,15 @@
 
 </div>
 
----
-
 ## PERFIL PROFESIONAL
 
 <table border="0">
   <tr>
     <td width="70%">
-      <p align="left">
-        <b>Ingeniero de Sistemas enfocado en desarrollo web.</b> Transformo problemas complejos de UX en soluciones UI escalables, mediante código limpio y arquitecturas robustas. Me especializo como <b>diseñador IoT</b>, gestionando y alimentando flujos de datos para la toma de decisiones inteligentes.
+<p align="justify">
+        Ingeniero de Sistemas y Desarrollador Web Full Stack experto en crear plataformas web escalables y liderar equipos de desarrollo bajo metodologías ágiles. Especialista en el ecosistema Laravel (APIs REST) y React con TypeScript, diseñando interfaces modernas con Tailwind CSS, gestionando bases de datos PostgreSQL y contenedorizando entornos con Docker. Mi enfoque riguroso en control de calidad (QA Testing) y control de versiones (Git) garantiza código eficiente, complementado con una sólida aplicación de principios UX/UI para construir interfaces limpias, intuitivas y centradas en el usuario.
         <br><br>
-        Actualmente lidero proyectos en el <b>departamento de tecnología de la Alcaldía de Mariño</b>, donde diseño sistemas orientados a la optimización de procesos públicos y administración de datos a gran escala.
-        <br><br>
-        Mi visión se basa en la <b>comunicación asertiva</b> como puente entre el código, las necesidades del cliente y la sinergia con mi equipo. Busco la eficiencia mediante arquitecturas modernas para transformar procesos complejos en sistemas fluidos y escalables.
+        Con experiencia en trabajo remoto y equipos multidisciplinarios, he liderado el desarrollo de sistemas de gestión, plataformas de administración pública y herramientas digitales para optimización de procesos, siempre priorizando escalabilidad, mantenibilidad y una experiencia de usuario pulida.
       </p>
     </td>
     <td width="30%" align="center">
@@ -32,8 +28,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 🛠️ STACK TECNOLÓGICO
 
@@ -57,15 +51,11 @@
 * **Metodologías:** Desarrollo Ágil (Scrum, Kanban, XP), Cascada (Tradicional), Git.
 * **Habilidades clave:** Análisis de Software, Comunicación Efectiva, Trabajo en Equipo.
 
----
-
 ## 💼 EXPERIENCIA LABORAL
 
 * **ALCALDÍA DE MARIÑO (NUEVA ESPARTA)** | Desarrollador Full Stack / Ingeniería de Sistemas | Enero 2026 – Presente
 * **EMBARCACIÓN ISIDORO** | Desarrollador Full Stack Remoto | Enero 2026 – Abril 2026
 * **GS TECHNOLOGY, C.A.** | Soporte Técnico | Mayo 2025 – Julio 2025
-
----
 
 ## 🏗️ PROYECTOS DESTACADOS
 
